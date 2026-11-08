@@ -1,3 +1,7 @@
 audio/
 .DS_Store
 __pycache__/
+
+# >>> magpie: library skills placed here (magpie adds and removes these lines) >>>
+/.claude/skills/moss-tts-voice-clone
+# <<< magpie <<<

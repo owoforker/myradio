@@ -2,17 +2,12 @@
 
 <p align="center"><b>キャラクターが毎朝ニュースを読む「放送局」を、<br>GitHub のリポジトリ 1 つで開けます。</b></p>
 
-<!-- 複製して自分の局にしたら：この画像（docs/screen.jpg、ものラジオの画面）と下の ON AIR バッジを、自分の局のものに差し替えてください（AGENTS.md の「新しい局を開くとき」） -->
 <p align="center">
-  <a href="https://monoradio102.github.io/myradio/"><img src="docs/screen.jpg" alt="ものラジオの放送画面" width="820"></a>
-</p>
-
-<p align="center">
-  <a href="https://monoradio102.github.io/myradio/"><img src="https://img.shields.io/badge/%E2%96%B6%20ON%20AIR-Mono%20Radio-ffd028?style=for-the-badge&labelColor=ff4468" alt="ものラジオを見る"></a>
+  <a href="https://owoforker.github.io/myradio/"><img src="https://img.shields.io/badge/%E2%96%B6%20ON%20AIR-Mita%20Radio-ffd028?style=for-the-badge&labelColor=ff4468" alt="蜜塔 radioを見る"></a>
   <a href="#開局方法"><img src="https://img.shields.io/badge/open%20your-station-3fe0dc?style=for-the-badge&labelColor=161a26" alt="開局方法"></a>
 </p>
 
-<p align="center">このリポジトリが、そのまま 1 つの局です。<br>お手本の局「<b>ものラジオ</b>」（AI・3D の朝のニュース）が、毎朝放送中。</p>
+<p align="center">このリポジトリが、そのまま 1 つの局です。<br><b>蜜塔 radio</b> が、毎朝放送中。</p>
 
 - **配信は、台本と音声を置いて push するだけ**。サーバーはいりません
 - 動画ではなく **HTML の番組**です。再生位置に合わせて、スライド・字幕・キャラ・リンクカードが動きます。見出しで飛べて、元の記事にすぐ行けて、台本はいつでも文字で読めます
